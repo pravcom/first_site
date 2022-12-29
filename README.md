@@ -1,3 +1,3 @@
 ## Мой первый опыт
 
-- Вот посмотрите сами [ссылка](https://pravcom.github.io/first_site/)
+- Вот посмотрите сами [ссылка](https://pravcom.github.io/first_site/Irbis.html)
