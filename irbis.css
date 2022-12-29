@@ -9,3 +9,8 @@ p {
  font-size: 19px;
  width: 100%;
 }
+
+.buttons {
+	color: red;
+	font-size: 20px;
+}
